@@ -1,0 +1,8 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(300px,1fr);
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
